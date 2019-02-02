@@ -6,3 +6,4 @@
 * [18. 4Sum](https://www.sangyx.cn/archives/836)
 * [35. Search Insert Position](https://www.sangyx.cn/archives/823)
 * [41. First Missing Positive](https://www.sangyx.cn/archives/840)
+* [55. Jump Game](https://www.sangyx.cn/archives/871)
