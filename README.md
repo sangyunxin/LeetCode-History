@@ -9,3 +9,4 @@
 * [55. Jump Game](https://www.sangyx.cn/archives/871)
 * [59. Spiral Matrix II](https://www.sangyx.cn/archives/876)
 * [63. Unique Paths II](https://www.sangyx.cn/archives/878)
+* [64. Minimum Path Sum](https://www.sangyx.cn/archives/884)
