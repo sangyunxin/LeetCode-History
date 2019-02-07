@@ -10,3 +10,5 @@
 * [59. Spiral Matrix II](https://www.sangyx.cn/archives/876)
 * [63. Unique Paths II](https://www.sangyx.cn/archives/878)
 * [64. Minimum Path Sum](https://www.sangyx.cn/archives/884)
+* 26. Remove Duplicates from Sorted Array
+* 27. Remove Element
