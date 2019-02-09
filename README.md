@@ -7,6 +7,7 @@
 * [18. 4Sum](https://www.sangyx.cn/archives/836)
 * 26. Remove Duplicates from Sorted Array
 * 27. Remove Element
+* [31. Next Permutation](https://www.sangyx.cn/archives/913)
 * [35. Search Insert Position](https://www.sangyx.cn/archives/823)
 * [41. First Missing Positive](https://www.sangyx.cn/archives/840)
 * [55. Jump Game](https://www.sangyx.cn/archives/871)
