@@ -18,6 +18,7 @@
 * 53.Maximum Subarray
 * 54.Spiral Matrix
 * [55.Jump Game](https://www.sangyx.cn/archives/871)
+* [56.Merge Intervals](https://www.sangyx.cn/archives/957)
 * [59.Spiral Matrix II](https://www.sangyx.cn/archives/876)
 * [63.Unique Paths II](https://www.sangyx.cn/archives/878)
 * [64.Minimum Path Sum](https://www.sangyx.cn/archives/884)
