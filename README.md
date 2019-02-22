@@ -20,6 +20,7 @@
 * [55.Jump Game](https://www.sangyx.cn/archives/871)
 * [56.Merge Intervals](https://www.sangyx.cn/archives/957)
 * [59.Spiral Matrix II](https://www.sangyx.cn/archives/876)
+* 62.Unique Paths
 * [63.Unique Paths II](https://www.sangyx.cn/archives/878)
 * [64.Minimum Path Sum](https://www.sangyx.cn/archives/884)
 * 121.Best Time to Buy and Sell Stock
