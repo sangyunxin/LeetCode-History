@@ -24,7 +24,7 @@
 * [63.Unique Paths II](https://www.sangyx.cn/archives/878)
 * [64.Minimum Path Sum](https://www.sangyx.cn/archives/884)
 * 66.Plus One
-
+* [73.Set Matrix Zeroes](https://www.sangyx.cn/archives/960)
 * 121.Best Time to Buy and Sell Stock
 
 ### String题解
