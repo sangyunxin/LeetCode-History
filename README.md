@@ -25,6 +25,7 @@
 * [64.Minimum Path Sum](https://www.sangyx.cn/archives/884)
 * 66.Plus One
 * [73.Set Matrix Zeroes](https://www.sangyx.cn/archives/960)
+* 74.Search a 2D Matrix
 * 121.Best Time to Buy and Sell Stock
 
 ### String题解
