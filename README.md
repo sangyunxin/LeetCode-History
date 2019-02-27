@@ -26,6 +26,7 @@
 * 66.Plus One
 * [73.Set Matrix Zeroes](https://www.sangyx.cn/archives/960)
 * 74.Search a 2D Matrix
+* [75.Sort Colors](https://www.sangyx.cn/archives/1001)
 * 121.Best Time to Buy and Sell Stock
 
 ### String题解
