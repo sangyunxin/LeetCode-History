@@ -28,6 +28,7 @@
 * 74.Search a 2D Matrix
 * [75.Sort Colors](https://www.sangyx.cn/archives/1001)
 * 78.Subsets
+* 79.Word Search
 * 121.Best Time to Buy and Sell Stock
 
 ### String题解
