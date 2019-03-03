@@ -29,6 +29,8 @@
 * [75.Sort Colors](https://www.sangyx.cn/archives/1001)
 * 78.Subsets
 * 79.Word Search
+* 80.Remove Duplicates from Sorted Array II
+* 81.Search in Rotated Sorted Array II
 * 121.Best Time to Buy and Sell Stock
 
 ### String题解
