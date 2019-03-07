@@ -33,6 +33,7 @@
 * 81.Search in Rotated Sorted Array II
 * 88.Merge Sorted Array
 * 90.Subsets II
+* 105.Construct Binary Tree from Preorder and Inorder Traversal
 * 121.Best Time to Buy and Sell Stock
 
 ### String题解
