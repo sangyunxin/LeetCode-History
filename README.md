@@ -41,3 +41,6 @@
 
 ### Linked List题解
 * 21.Merge Two Sorted Lists
+
+### Dynamic Programming题解
+* 5.Longest Palindromic Substring
