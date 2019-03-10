@@ -44,5 +44,6 @@
 * [63.Unique Paths II](https://www.sangyx.cn/archives/878)
 * [64.Minimum Path Sum](https://www.sangyx.cn/archives/884)
 * 70.Climbing Stairs
+* 91.Decode Ways
 * 121.Best Time to Buy and Sell Stock
 * 746.Min Cost Climbing Stairs
