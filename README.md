@@ -47,5 +47,6 @@
 * 91.Decode Ways
 * 95.Unique Binary Search Trees II
 * 96.Unique Binary Search Trees
+* 120.Triangle
 * 121.Best Time to Buy and Sell Stock
 * 746.Min Cost Climbing Stairs
