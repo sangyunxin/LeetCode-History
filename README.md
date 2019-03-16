@@ -49,4 +49,5 @@
 * 96.Unique Binary Search Trees
 * 120.Triangle
 * 121.Best Time to Buy and Sell Stock
+* 139.Word Break
 * 746.Min Cost Climbing Stairs
