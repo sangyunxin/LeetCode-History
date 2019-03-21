@@ -54,4 +54,5 @@
 * 198.House Robber
 * 213.House Robber II
 * 221.Maximal Square
+* 279.Perfect Squares
 * 746.Min Cost Climbing Stairs
