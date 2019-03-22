@@ -55,4 +55,5 @@
 * 213.House Robber II
 * 221.Maximal Square
 * 279.Perfect Squares
+* 300.Longest Increasing Subsequence
 * 746.Min Cost Climbing Stairs
