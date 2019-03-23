@@ -56,4 +56,5 @@
 * 221.Maximal Square
 * 279.Perfect Squares
 * 300.Longest Increasing Subsequence
+* 303.Range Sum Query - Immutable
 * 746.Min Cost Climbing Stairs
