@@ -57,4 +57,5 @@
 * 279.Perfect Squares
 * 300.Longest Increasing Subsequence
 * 303.Range Sum Query - Immutable
+* 304.Range Sum Query 2D - Immutable
 * 746.Min Cost Climbing Stairs
