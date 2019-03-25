@@ -54,6 +54,7 @@
 * 198.House Robber
 * 213.House Robber II
 * 221.Maximal Square
+* 264.Ugly Number II
 * 279.Perfect Squares
 * 300.Longest Increasing Subsequence
 * 303.Range Sum Query - Immutable
