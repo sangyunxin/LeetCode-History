@@ -63,4 +63,5 @@
 * 322.Coin Change
 * 338.Counting Bits
 * 343.Integer Break
+* 357.Count Numbers with Unique Digits
 * 746.Min Cost Climbing Stairs
