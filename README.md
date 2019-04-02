@@ -65,5 +65,6 @@
 * 343.Integer Break
 * 357.Count Numbers with Unique Digits
 * 368.Largest Divisible Subset
-* 375.Guess Number Higher or Lower II
+* 375.[Guess Number Higher or Lower II](https://www.sangyx.cn/archives/1143)
+* 376.[Wiggle Subsequence](https://www.sangyx.cn/archives/1140)
 * 746.Min Cost Climbing Stairs
