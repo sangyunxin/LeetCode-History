@@ -69,4 +69,5 @@
 * 376.[Wiggle Subsequence](https://www.sangyx.cn/archives/1140)
 * 377.Combination Sum IV
 * 392.Is Subsequence
+* 413.Arithmetic Slices
 * 746.Min Cost Climbing Stairs
