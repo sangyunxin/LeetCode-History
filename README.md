@@ -71,4 +71,5 @@
 * 392.Is Subsequence
 * 413.Arithmetic Slices
 * 416.Partition Equal Subset Sum
+* 464.Can I Win
 * 746.Min Cost Climbing Stairs
