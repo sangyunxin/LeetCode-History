@@ -38,6 +38,7 @@
 * 21.Merge Two Sorted Lists
 
 ### Hash Table题解
+* 219. Contains Duplicate II
 * 500. Keyboard Row
 
 ### Dynamic Programming题解
