@@ -44,6 +44,7 @@
 ### Tree题解
 * 617.Merge Two Binary Trees
 * 700.Search in a Binary Search Tree
+* 965.Univalued Binary Tree
 
 ### Dynamic Programming题解
 * 5.Longest Palindromic Substring
