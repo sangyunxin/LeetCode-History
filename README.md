@@ -45,6 +45,7 @@
 * 617.Merge Two Binary Trees
 * 700.Search in a Binary Search Tree
 * 965.Univalued Binary Tree
+* 589.N-ary Tree Preorder Traversal
 
 ### Dynamic Programming题解
 * 5.Longest Palindromic Substring
