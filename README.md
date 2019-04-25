@@ -47,6 +47,7 @@
 * 590.N-ary Tree Postorder Traversal
 * 617.Merge Two Binary Trees
 * 700.Search in a Binary Search Tree
+* 872.Leaf-Similar Trees
 * 897.Increasing Order Search Tree
 * 965.Univalued Binary Tree
 
