@@ -49,6 +49,7 @@
 * 700.Search in a Binary Search Tree
 * 872.Leaf-Similar Trees
 * 897.Increasing Order Search Tree
+* 938.Range Sum of BST
 * 965.Univalued Binary Tree
 
 ### Dynamic Programming题解
