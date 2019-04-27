@@ -42,6 +42,7 @@
 * 500. Keyboard Row
 
 ### Tree题解
+* 104.Maximum Depth of Binary Tree
 * 559.Maximum Depth of N-ary Tree
 * 589.N-ary Tree Preorder Traversal
 * 590.N-ary Tree Postorder Traversal
