@@ -36,6 +36,7 @@
 
 ### Linked List题解
 * 21.Merge Two Sorted Lists
+* 876.Middle of the Linked List
 
 ### Hash Table题解
 * 219. Contains Duplicate II
