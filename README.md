@@ -35,6 +35,7 @@
 * 67.Add Binary
 
 ### Linked List题解
+* 2.Add Two Numbers
 * 21.Merge Two Sorted Lists
 * 206.Reverse Linked List
 * 876.Middle of the Linked List
