@@ -95,4 +95,5 @@
 * 467.Unique Substrings in Wraparound String
 * 474.Ones and Zeroes
 * 486.Predict the Winner
+* 494.Target Sum
 * 746.Min Cost Climbing Stairs
