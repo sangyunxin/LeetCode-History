@@ -57,6 +57,9 @@
 * 938.Range Sum of BST
 * 965.Univalued Binary Tree
 
+### Graph题解
+* 997.Find the Town Judge
+
 ### Dynamic Programming题解
 * 5.Longest Palindromic Substring
 * 53.Maximum Subarray
