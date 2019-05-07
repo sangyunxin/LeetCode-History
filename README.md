@@ -30,6 +30,7 @@
 * 88.Merge Sorted Array
 * 90.Subsets II
 * 105.Construct Binary Tree from Preorder and Inorder Traversal
+* 118.Pascal's Triangle
 
 ### String题解
 * 67.Add Binary
