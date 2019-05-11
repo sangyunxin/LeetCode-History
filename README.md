@@ -32,6 +32,7 @@
 * 105.Construct Binary Tree from Preorder and Inorder Traversal
 * 118.Pascal's Triangle
 * 122.Best Time to Buy and Sell Stock II
+* 153.Find Minimum in Rotated Sorted Array
 * 167.Two Sum II - Input array is sorted
 
 ### String题解
