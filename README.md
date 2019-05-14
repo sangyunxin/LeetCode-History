@@ -30,6 +30,7 @@
 * 88.Merge Sorted Array
 * 90.Subsets II
 * 105.Construct Binary Tree from Preorder and Inorder Traversal
+* 106.Construct Binary Tree from Inorder and Postorder Traversal
 * 118.Pascal's Triangle
 * 119.Pascal's Triangle II
 * 122.Best Time to Buy and Sell Stock II
