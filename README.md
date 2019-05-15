@@ -35,6 +35,7 @@
 * 119.Pascal's Triangle II
 * 122.Best Time to Buy and Sell Stock II
 * 153.Find Minimum in Rotated Sorted Array
+* 162.Find Peak Element
 * 167.Two Sum II - Input array is sorted
 
 ### String题解
