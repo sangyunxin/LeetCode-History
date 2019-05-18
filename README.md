@@ -38,6 +38,7 @@
 * 162.Find Peak Element
 * 167.Two Sum II - Input array is sorted
 * 169.Majority Element
+* 189.Rotate Array
 
 ### String题解
 * 67.Add Binary
