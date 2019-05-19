@@ -39,6 +39,8 @@
 * 167.Two Sum II - Input array is sorted
 * 169.Majority Element
 * 189.Rotate Array
+* 209.Minimum Size Subarray Sum
+* 219.Contains Duplicate II
 
 ### String题解
 * 67.Add Binary
