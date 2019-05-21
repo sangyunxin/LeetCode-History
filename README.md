@@ -41,6 +41,7 @@
 * 189.Rotate Array
 * 209.Minimum Size Subarray Sum
 * 216.Combination Sum III
+* 217.Contains Duplicate
 * 219.Contains Duplicate II
 
 ### String题解
