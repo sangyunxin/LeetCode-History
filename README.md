@@ -43,6 +43,10 @@
 * 216.Combination Sum III
 * 217.Contains Duplicate
 * 219.Contains Duplicate II
+* 561.Array Partition I
+* 832.Flipping an Image
+* 977.Squares of a Sorted Array
+* 905.Sort Array By Parity
 
 ### String题解
 * 67.Add Binary
