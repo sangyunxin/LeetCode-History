@@ -43,10 +43,13 @@
 * 216.Combination Sum III
 * 217.Contains Duplicate
 * 219.Contains Duplicate II
+* 509.Fibonacci Number
 * 561.Array Partition I
 * 832.Flipping an Image
-* 977.Squares of a Sorted Array
 * 905.Sort Array By Parity
+* 922.Sort Array By Parity II
+* 977.Squares of a Sorted Array
+* 999.Available Captures for Rook
 
 ### String题解
 * 67.Add Binary
