@@ -50,6 +50,7 @@
 * 922.Sort Array By Parity II
 * 977.Squares of a Sorted Array
 * 999.Available Captures for Rook
+* 1002.Find Common Characters
 
 ### String题解
 * 67.Add Binary
