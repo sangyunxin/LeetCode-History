@@ -124,3 +124,4 @@
 * 486.Predict the Winner
 * 494.Target Sum
 * 746.Min Cost Climbing Stairs
+* 1025.Divisor Game
