@@ -49,6 +49,7 @@
 * 905.Sort Array By Parity
 * 922.Sort Array By Parity II
 * 977.Squares of a Sorted Array
+* 985.Sum of Even Numbers After Queries
 * 999.Available Captures for Rook
 * 1002.Find Common Characters
 
