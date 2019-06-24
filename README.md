@@ -1,4 +1,4 @@
-# LeetCode-History
+# LeetCode-Footprint
 > 我的LeetCode打卡记录
 
 ### Array题解
