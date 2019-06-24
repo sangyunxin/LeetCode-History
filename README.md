@@ -1,5 +1,5 @@
-# LeetCode-Footprint
-> 我的LeetCode打卡记录
+# algorithm
+> 我的算法打卡记录
 
 ### Array题解
 * [11.Container With Most Water](https://www.sangyx.cn/825)
