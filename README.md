@@ -1,5 +1,5 @@
 # algorithm
-> 我的算法打卡记录
+> 刷题打卡记录
 
 ### Array题解
 * [11.Container With Most Water](https://www.sangyx.cn/825)
@@ -21,6 +21,7 @@
 * [64.Minimum Path Sum](https://www.sangyx.cn/884)
 * [375.Guess Number Higher or Lower II](https://www.sangyx.cn/1143)
 * [376.Wiggle Subsequence](https://www.sangyx.cn/1140)
+* [576.Out of Boundary Paths](https://www.sangyx.cn/1361)
 
 ### Graph题解
 * [310.Minimum Height Trees](https://www.sangyx.cn/1340)
