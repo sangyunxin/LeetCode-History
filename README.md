@@ -22,6 +22,7 @@
 * [375.Guess Number Higher or Lower II](https://www.sangyx.cn/1143)
 * [376.Wiggle Subsequence](https://www.sangyx.cn/1140)
 * [576.Out of Boundary Paths](https://www.sangyx.cn/1361)
+* [714.Best Time to Buy and Sell Stock with Transaction Fee](https://www.sangyx.cn/1371)
 
 ### Graph题解
 * [310.Minimum Height Trees](https://www.sangyx.cn/1340)
