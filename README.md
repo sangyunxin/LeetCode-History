@@ -26,3 +26,6 @@
 
 ### Graph题解
 * [310.Minimum Height Trees](https://www.sangyx.cn/1340)
+
+### Stack题解
+* [1209.Remove All Adjacent Duplicates in String II](https://www.sangyx.cn/1396)
