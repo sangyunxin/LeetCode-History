@@ -29,3 +29,6 @@
 
 ### Stack题解
 * [1209.Remove All Adjacent Duplicates in String II](https://www.sangyx.cn/1396)
+
+### String题解
+* [1247.Minimum Swaps to Make Strings Equal](https://www.sangyx.cn/1447)
